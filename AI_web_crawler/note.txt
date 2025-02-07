@@ -1,0 +1,11 @@
+1. streamlit connectivity understand current work
+2. how can I improve joins
+3. improve one-two shot learning
+
+
+add the my sql db connection
+
+# deepseek
+# groq
+# crawl4ai
+
